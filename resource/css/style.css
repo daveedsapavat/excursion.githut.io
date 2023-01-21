@@ -1,0 +1,36 @@
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: black;
+    text-align: center;
+}
+
+.header-1{
+    font-weight: normal;
+    font-size: 50px;
+    color:white;
+    text-align: center;
+}
+
+#anchor-1{
+    color: aquamarine;
+    font-size: 16px;
+}
+
+.header-2{
+    font-family: Verdana;
+    font-weight: 300;
+    font-size: 42px;
+    color: white;
+}
+
+#first-paragraph{
+    font-family: verdana;
+    font-size:21px;
+    color: gray;
+}
+
+.footer-1{
+    text-align: right;
+    color: gray;
+    font-size: 21px;
+}
